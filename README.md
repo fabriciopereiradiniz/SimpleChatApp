@@ -6,7 +6,7 @@ SimpleChatApp is a basic chat application that enables communication between cli
 - Client-server connection.
 - Sending messages between clients and the server.
 - Simulation of message delivery with ACK (Acknowledgment) and NACK (Negative Acknowledgment).
-- 
+
 ## Prerequisites
 - Java (JDK) installed on your system.
 - How to Use
