@@ -38,4 +38,4 @@ java entities.Client
 ```
 
 6. Follow the instructions to provide a name for the client and start sending messages.
-Note: Ensure you replace "YOURIPHERE" with the actual IP address of the server in the private static final String SERVER_ADDRESS = "YOURIPHERE"; line in the Client.java file.
+Note: Ensure you replace `"YOURIPHERE"` with the actual IP address of the server in the `private static final String SERVER_ADDRESS = "YOURIPHERE"`; line in the `Client.java` file.
